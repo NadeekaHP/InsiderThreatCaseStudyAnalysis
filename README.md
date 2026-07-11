@@ -9,7 +9,7 @@ The coding resources are designed for use by both human annotators and Large Lan
 ## Repository Contents
 
 ```
-├── case_studies/        # Publicly available insider threat case studies
+├── case_studies/        # Publicly available insider threat case studies and selected sample for the pilot study
 ├── template/            # Coding template
 ├── schema/              # Coding schema
 ├── coding_guide/        # Coding guide with definitions and examples
@@ -24,6 +24,7 @@ A collection of publicly available insider threat incident reports gathered from
 
 The coding template defines the attributes used to analyse each insider threat incident, including:
 
+- Catalyst
 - Actor characteristics
 - Attack characteristics
 - Organisational characteristics
